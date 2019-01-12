@@ -1,0 +1,3 @@
+print('Welcome');
+print('What`s up?');
+print('Goodbye');
